@@ -1,6 +1,6 @@
 # class-solutions
 
-# Adding your solutions to the list
+### Adding your solutions to the list
 
 * Fork the respotory [Kindelia/class](https://github.com/Kindelia/class/)
 * Open up a new **issue** on [Kindelia/class-solutions](https://github.com/Kindelia/class-solutions/) with: 
@@ -15,7 +15,7 @@ git submodule add https://github.com/GabrielAlvesFS/Kindelia-class gabriel-alves
 
 * Please **DO NOT** open a pull request!
 
-## Beeing validated
+### Beeing validated
 * Git clone your project
 * Answer the exercises on folder ...
 
