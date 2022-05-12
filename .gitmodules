@@ -1,3 +1,6 @@
 [submodule "gabriel-alves"]
 	path = gabriel-alves
 	url = https://github.com/GabrielAlvesFS/Kindelia-class.git
+[submodule "Henrique-Godoy"]
+	path = Henrique-Godoy
+	url = https://github.com/herniqeu/class.git
