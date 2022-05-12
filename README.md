@@ -2,7 +2,7 @@
 
 ### Adding your solutions to the list
 
-* Fork the respotory [Kindelia/class](https://github.com/Kindelia/class/)
+* Fork the repository [Kindelia/class](https://github.com/Kindelia/class/)
 * Open up a new **issue** on [Kindelia/class-solutions](https://github.com/Kindelia/class-solutions/) with: 
 ```bash
 git submodule add https://github.com/USER/REPOSITORY.git name-surname 
