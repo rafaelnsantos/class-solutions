@@ -10,7 +10,7 @@ git submodule add https://github.com/USER/REPOSITORY.git name-surname
 
 For example:
 ```bash
-git submodule add https://github.com/GabrielAlvesFS/Kindelia-class gabriel-alves 
+git submodule add https://github.com/GabrielAlvesFS/Kindelia-class.git gabriel-alves 
 ```
 
 * Please **DO NOT** open a pull request!
