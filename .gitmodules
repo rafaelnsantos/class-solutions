@@ -34,3 +34,6 @@
 [submodule "paulovitor-oliveira"]
 	path = paulovitor-oliveira
 	url = https://github.com/Vittorr/class.git
+[submodule "Daniel-Caldas"]
+	path = Daniel-Caldas
+	url = https://github.com/caldasdani/class.git
