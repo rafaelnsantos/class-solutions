@@ -4,3 +4,33 @@
 [submodule "Henrique-Godoy"]
 	path = Henrique-Godoy
 	url = https://github.com/herniqeu/class.git
+[submodule "sergio-bonatto"]
+	path = sergio-bonatto
+	url = https://github.com/SergioBonatto/class.git
+[submodule "eduardo-tavares"]
+	path = eduardo-tavares
+	url = https://github.com/edumt/class.git
+[submodule "Hyago-Fellipe"]
+	path = Hyago-Fellipe
+	url = https://github.com/HyagoFellipee/class.git
+[submodule "nicolas-abril"]
+	path = nicolas-abril
+	url = https://gitlab.com/nicolasabril/kind-class.git
+[submodule "nathanael-ribeiro"]
+	path = nathanael-ribeiro
+	url = https://github.com/ribeirotomas1904/class.git
+[submodule "natan-rdias"]
+	path = natan-rdias
+	url = https://github.com/Nrdias/class.git
+[submodule "rafael-santos"]
+	path = rafael-santos
+	url = https://github.com/rafaelnsantos/class.git
+[submodule "Adriano-Augusto"]
+	path = Adriano-Augusto
+	url = https://github.com/AdrianoAugustoM/class.git
+[submodule "luiz-medina"]
+	path = luiz-medina
+	url = https://github.com/TheMhv/Kindelia-class.git
+[submodule "paulovitor-oliveira"]
+	path = paulovitor-oliveira
+	url = https://github.com/Vittorr/class.git
