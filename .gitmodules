@@ -37,3 +37,6 @@
 [submodule "Daniel-Caldas"]
 	path = Daniel-Caldas
 	url = https://github.com/caldasdani/class.git
+[submodule "braien-machado"]
+	path = braien-machado
+	url = https://github.com/braien-machado/kindelia-class.git
